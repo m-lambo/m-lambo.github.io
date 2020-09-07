@@ -1,4 +1,14 @@
+<<<<<<< HEAD
+nav {
+	display: block;
+}
+
+body {
+	font-family: Monteserrat, Helvetica Neue, sans-serrif;
+	background: url('img/background.jpg');
+=======
 body {
 	font-family: Monteserrat, Helvetica Neue, sans-serrif;
 	background: url('backgroundimage.jpg');
+>>>>>>> 8eb395bed045928ffe3bc7efaa77f272c6a4c530
 }
