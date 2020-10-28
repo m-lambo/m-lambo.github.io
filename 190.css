@@ -1,0 +1,21 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background: PapayaWhip; 
+}
+.assignments {
+	background: OrangeRed; 
+	display: flex;
+	margin: 10px;
+	padding: 10px;
+}
+.assignments img {
+	width: 300px;
+	height:300px;
+	border-radius: 8px;
+	padding: 18px;
+}
+
+a {
+	text-decoration: none;
+	color: MediumSpringGreen;
+}
