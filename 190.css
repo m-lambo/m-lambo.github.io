@@ -2,9 +2,14 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	background: PapayaWhip; 
 }
-.assignments {
-	background: OrangeRed; 
+
+.assignmentsDiv {
 	display: flex;
+	flex-wrap: wrap;
+}
+.assignments {
+	width: 30%;
+	background: OrangeRed; 
 	margin: 10px;
 	padding: 10px;
 }
@@ -13,6 +18,8 @@ body {
 	height:300px;
 	border-radius: 8px;
 	padding: 18px;
+	display: block;
+	margin: auto;
 }
 
 a {
