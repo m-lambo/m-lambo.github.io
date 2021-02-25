@@ -4,5 +4,5 @@ nav {
 
 body {
 	font-family: Monteserrat, Helvetica Neue, sans-serrif;
-	background-image: url('img/background.jpg');
+	background: url('../img/background.jpg');
 }
