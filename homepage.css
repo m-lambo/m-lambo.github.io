@@ -1,10 +1,8 @@
-
-
 nav {
 	display: block;
 }
 
-header {
+body {
 	font-family: Monteserrat, Helvetica Neue, sans-serrif;
 	background-image: url('img/backgroundImage.jpg');
 }
