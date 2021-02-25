@@ -1,8 +1,8 @@
-nav {
-	display: block;
+html {
+	background: url('../img/background.jpg') no repeat center center fixed;
+	background-size: cover;
 }
 
-body {
-	font-family: Monteserrat, Helvetica Neue, sans-serrif;
-	background: url('../img/background.jpg');
+nav {
+	display: block;
 }
