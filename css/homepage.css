@@ -1,9 +1,0 @@
-html {
-	background: url('../img/background.jpg') no repeat center center fixed;
-	background-size: cover;
-}
-
-.flex-container {
-	display: flex;
-	flex-direction: row;
-}
